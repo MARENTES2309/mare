@@ -1,0 +1,29 @@
+.center{
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.contenedor{
+    width: auto;
+    border: 1px solid #cccccc;
+    display: inline-block;
+}
+.row{
+    margin:  auto;
+}
+.cuadro1{
+    width: 100px;
+    height: 100px;
+   background-color:brown;
+   display: block;
+   line-height: 100px;
+   text-align: center;
+  }
+  .cuadro2{
+    width: 100px;
+    height: 100px;
+   background-color:white;
+   display: block;
+   line-height: 100px;
+   text-align: center;
+  }
